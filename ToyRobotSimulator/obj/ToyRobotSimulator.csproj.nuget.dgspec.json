@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LavanyaK\\source\\repos\\LavanyaK1608\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator.csproj": {}
+    "C:\\Users\\LavanyaK\\source\\Test\\Project\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LavanyaK\\source\\repos\\LavanyaK1608\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator.csproj": {
+    "C:\\Users\\LavanyaK\\source\\Test\\Project\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LavanyaK\\source\\repos\\LavanyaK1608\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\LavanyaK\\source\\Test\\Project\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator.csproj",
         "projectName": "ToyRobotSimulator",
-        "projectPath": "C:\\Users\\LavanyaK\\source\\repos\\LavanyaK1608\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator.csproj",
+        "projectPath": "C:\\Users\\LavanyaK\\source\\Test\\Project\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator.csproj",
         "packagesPath": "C:\\Users\\LavanyaK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LavanyaK\\source\\repos\\LavanyaK1608\\ToyRobotSimulator\\ToyRobotSimulator\\ToyRobotSimulator\\obj\\",
+        "outputPath": "C:\\Users\\LavanyaK\\source\\Test\\Project\\ToyRobotSimulator\\ToyRobotSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
