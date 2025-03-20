@@ -11,7 +11,7 @@ The **Toy Robot Simulator** is a console-based simulation where a toy robot move
 ### Steps to Run
 1. **Clone the Repository**
    ```sh
-   git clone <your-repo-url>
+   git clone <provided-repo-url-in-email>
    cd ToyRobotSimulator
    ```
 2. **Build the Project**
@@ -73,12 +73,4 @@ ToyRobotSimulator/
 │   ├── RobotTests.cs              # Unit tests
 │── README.md                      # Documentation
 ```
-
-## Contributing
-- Fork the repository.
-- Create a feature branch.
-- Submit a **Pull Request**.
-
-## License
-This project is licensed under the **MIT License**.
 
